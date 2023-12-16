@@ -81,7 +81,7 @@ void loop()
 ## Resultados
 Cuando haya funcionado, se podrán observar los valores dentro de la pantalla LCD.
 ![](https://github.com/AbrahamCH1/Practica-No.4-ESP32-con-ULTRASONICO/blob/main/Captura%20de%20pantalla%20(300).png?raw=true)
-![]()
+![](https://github.com/AbrahamCH1/Practica-No.4-ESP32-con-ULTRASONICO/blob/main/Captura%20de%20pantalla%20(301).png?raw=true)
 
 # Créditos
 Desarrollado por Ing. Abraham Contreras Herrera
