@@ -80,6 +80,7 @@ void loop()
 5. Colocar la distancia dando *doble click* al sensor **ULTRASONICO** 
 ## Resultados
 Cuando haya funcionado, se podrán observar los valores dentro de la pantalla LCD.
+![](https://github.com/AbrahamCH1/Practica-No.4-ESP32-con-ULTRASONICO/blob/main/Captura%20de%20pantalla%20(300).png?raw=true)
 ![]()
 
 # Créditos
